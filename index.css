@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border-radius: 20px;
+    padding: 15px;
+    background-color: deepskyblue;
+}
+
+h1 {
+   text-transform: uppercase;
+   font-size: 80px;
+   color: red; 
+}
+
+footer p{
+    background-color: darkgreen;
+}
+
+nav a{
+    font: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy ;
+    margin: 5px 5px 5px 5px;
+}
+
+.text{
+    background-color: green;
+}
+
+.contact {
+    color: blue;
+    border: 3px solid blue;
+}
